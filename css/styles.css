@@ -107,8 +107,6 @@ color: var(--main-color);
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding-top: 24px;
-    padding-bottom: 24px;
 }
 
 .page-nav {
@@ -145,6 +143,7 @@ gap: 40px;
     display: flex;
     align-items: center;
     gap: 40px;
+    padding: 24px 0;
 }
 
 /******************************* main */
